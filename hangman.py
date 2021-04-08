@@ -72,7 +72,7 @@ def progess(attempts):
    |     |
    |     |
    0     |
-  /|\\   |
+  /|\\    |
          |
          |
 ---------+''')
@@ -93,7 +93,7 @@ def progess(attempts):
    |     |
    0     |
   /|\\   |
-  / \\   |
+  / \\    |
          |
 ---------+''')
         print('You are dead')
